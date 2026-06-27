@@ -1,2 +1,46 @@
-# 2db5c664-ppc-paid-advertising-knowled
-Searchable docs, categories, analytics, and feedback collection. Self-service support that reduces ticket volume by 50%.
+# PPC & Paid Advertising Knowledge Base and Help Center WordPress Plugin
+
+> Plugin for Ppc Advertising
+
+Built for ppc advertising professionals who are tired of wrestling with incompatible WordPress plugins that fight each other.
+
+Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.
+
+## What's Included
+
+- Ppc & Paid Advertising Knowledge Base And Help Center — fully configured and...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$34.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/5kQ00jdPp4sc9JKdI0cZe1h)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
